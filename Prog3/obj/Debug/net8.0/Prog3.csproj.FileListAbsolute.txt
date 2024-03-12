@@ -1,0 +1,14 @@
+C:\Users\mikhk\source\repos\Prog\Prog3\bin\Debug\net8.0\Prog3.exe
+C:\Users\mikhk\source\repos\Prog\Prog3\bin\Debug\net8.0\Prog3.deps.json
+C:\Users\mikhk\source\repos\Prog\Prog3\bin\Debug\net8.0\Prog3.runtimeconfig.json
+C:\Users\mikhk\source\repos\Prog\Prog3\bin\Debug\net8.0\Prog3.dll
+C:\Users\mikhk\source\repos\Prog\Prog3\bin\Debug\net8.0\Prog3.pdb
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\Prog3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\Prog3.AssemblyInfoInputs.cache
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\Prog3.AssemblyInfo.cs
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\Prog3.csproj.CoreCompileInputs.cache
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\Prog3.dll
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\refint\Prog3.dll
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\Prog3.pdb
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\Prog3.genruntimeconfig.cache
+C:\Users\mikhk\source\repos\Prog\Prog3\obj\Debug\net8.0\ref\Prog3.dll
